@@ -1,5 +1,4 @@
 # Online-Retail-Customer-Behavior-Analysis
-# 🛒 Online Retail Customer Behavior Analysis
 
 ## 📌 Overview
 
